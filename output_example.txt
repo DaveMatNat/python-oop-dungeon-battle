@@ -1,0 +1,123 @@
+************ DUNGEON START ************
+* Adventurer Lancelot encounters the Enemy Goblin in the dungeon.
+
+== ADVENTURER ==
+Name: Lancelot
+Max HP: 125
+Cur HP: 125
+Weapon: Caliburn
+Attack: (1, 35)
+
+== ENEMY ==
+Name: Goblin
+Max HP: 45
+Cur HP: 45
+Weapon: Golden Dagger
+Attack: (1, 25)
+
+**** FIGHT START ****
+[Lancelot] Feel my blade!
+* Goblin took 16 damage!
+[Goblin] Ehehehehe!
+* Lancelot took 20 damage!
+==== CURRENT HP ====
+Lancelot HP = [105]
+Goblin HP = [29]
+
+[Lancelot] Feel my blade!
+* Goblin took 32 damage!
+[Goblin]: Nooo! Why do I even guard this dungeon!?
+* Enemy Goblin was defeated! Adventurer Lancelot is victorious!
+
+Lancelot has RESTORED their health back to FULL!
+
+* Adventurer Lancelot encounters the Enemy Dragon in the dungeon.
+* Dragon is a boss! Watch out Lancelot!
+
+== ADVENTURER ==
+Name: Lancelot
+Max HP: 125
+Cur HP: 125
+Weapon: Caliburn
+Attack: (1, 35)
+
+== ENEMY ==
+Name: Dragon
+Max HP: 250
+Cur HP: 250
+Weapon: Fire Breath
+Attack: (10, 25)
+
+**** FIGHT START ****
+[Lancelot] Feel my blade!
+* Dragon took 20 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [104]
+Dragon HP = [230]
+
+[Lancelot] Feel my blade!
+* Dragon took 34 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [91]
+Dragon HP = [196]
+
+* Lancelot restored 27 HP!
+* Dragon restored 20 HP!
+[Lancelot] Feel my blade!
+* Dragon took 17 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [95]
+Dragon HP = [199]
+
+[Lancelot] Feel my blade!
+* Dragon took 34 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [75]
+Dragon HP = [165]
+
+[Lancelot] Feel my blade!
+* Dragon took 32 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [58]
+Dragon HP = [133]
+
+* Lancelot restored 29 HP!
+[Lancelot] Feel my blade!
+* Dragon took 30 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [63]
+Dragon HP = [103]
+
+[Lancelot] Feel my blade!
+* Dragon took 22 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [39]
+Dragon HP = [81]
+
+[Lancelot] Feel my blade!
+* Dragon took 27 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [29]
+Dragon HP = [54]
+
+[Lancelot] Feel my blade!
+* Dragon took 13 damage!
+[Dragon] ROOOOOOAARRR!
+==== CURRENT HP ====
+Lancelot HP = [4]
+Dragon HP = [41]
+
+* Lancelot uprgraded their weapon to Excalibur!
+[Lancelot] Feel my blade!
+* Dragon took 79 damage!
+[Dragon]: ROOOAAARR! Curse you!
+* Enemy Dragon was defeated! Adventurer Lancelot is victorious!
+************ END OF DUNGEON ************
